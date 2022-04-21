@@ -10,7 +10,7 @@
 
 &rarr; To be able to design high-quality, interactive websites<br>
 &rarr; Constructing a suite of useful tools for manipulating rhythm game chart files in Python/C#<br>
-&rarr; Writing a rudimentary computational chemistry package to model ring inversions of substituted cyclohexanes<br>
+&rarr; Writing packages in C#/Python to aid my study of UG-level computational and physical chemistry. <br>
 
 ## Interests:
 
